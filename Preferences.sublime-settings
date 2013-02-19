@@ -1,0 +1,28 @@
+{
+  "color_scheme": "Packages/Phix Color Scheme/Phix Dark.tmTheme",
+  "default_line_ending": "unix",
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "fallback_encoding": "UTF-8",
+  "find_selected_text": true,
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 10,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+  ],
+  "rulers":
+  [
+    80
+  ],
+  "sublimelinter_popup_errors_on_save": true,
+  "tab_size": 2,
+  "theme": "Soda Dark.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "use_tab_stops": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+}

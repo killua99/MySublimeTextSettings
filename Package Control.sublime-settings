@@ -1,0 +1,39 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"DetectSyntax",
+		"DocBlockr",
+		"Drupal Snippets",
+		"Emmet",
+		"Gist",
+		"Git",
+		"Goto Documentation",
+		"Goto Drupal API",
+		"LoremIpsum",
+		"Markdown Preview",
+		"MarkdownBuild",
+		"Package Control",
+		"Phix Color Scheme",
+		"PhpBeautifier",
+		"Phpcs",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Xdebug"
+	],
+	"repositories":
+	[
+		"https://github.com/burriko/sublime-subversion.git",
+		"https://github.com/burriko/sublime-subversion",
+		"https://github.com/dennishall/Sublime-Text-Subversion-plug-in.git",
+		"https://github.com/dennishall/Sublime-Text-Subversion-plug-in"
+	]
+}
